@@ -2,6 +2,7 @@
    A random generator for suggestions on what to do today in/near Seattle, WA.
 
 **Author: Jim Caldarise**
+
 **Date: 12/29/2021**
 
 ## Overview
