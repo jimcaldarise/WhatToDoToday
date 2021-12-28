@@ -12,3 +12,5 @@
 
    This project was inspired by the MixedMessages Portfolio prompt from
    Codecademy's Full Stack Developer course. 
+   
+   Additionally, this ReadMe is a practice doc for simple Markdown usage.
