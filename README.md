@@ -4,7 +4,7 @@
 **Author: Jim Caldarise**
 **Date: 12/29/2021**
 
-##Overview
+## Overview
    This program generates a list of 3 randomized activities as suggestions for
    what to do today in Seattle. It is programmed in JavaScript, and uses Node.js
    to run locally. 
