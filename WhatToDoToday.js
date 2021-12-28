@@ -67,3 +67,6 @@ const itinerary = {
       return `Today is a beautiful day for a Seattle adventure.\n\tIn the morning, ${morningActivity}.\n\tIn the afternoon, ${afternoonActivity}.\n\tTo round out your day, ${eveningActivity} in the evening.`;
    }
 }
+
+console.log("Unsure what to do in Seattle? I have a lot of ideas!");
+console.log(itinerary.generateRandomItinerary());
